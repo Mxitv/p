@@ -4165,6 +4165,11 @@ https://livechannels.xyz:2053/iptv/hustlertv/playlist.m3u8
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1200px-Dorcel_TV.svg.png",DORCEL-hd-tv
 https://livechannels.xyz:2053/iptv/dorcel/playlist.m3u8
 
+XTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5HhS9Ls3SfI5rbJjcMI8oh2CXgLA9ifV_wg&usqp=CAU",MIAMI TV XX
+https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
+
+
+
 
 
 
