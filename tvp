@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0peyig5INQPJou_K7CgbWSMcDddfnNbljqQqI0yaY5N)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3bIrJMcr3hfrji6fECw8lKeAD5MuYrrf5VPwqk99V05)/dm/3/x7wijay/d/live-2.m3u8
 
-#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra | SD
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
 #EXTINF:-4 tvg-logo="https://n9.cl/fetytr" group-title="ECUADOR", ECUAVISA 1
@@ -62,7 +62,7 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PUERTO RICO", Telemundo | SD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-22 tvg-logo="https://is.gd/VMKbmS" group-title="CINE Y SERIES", Frecuencia tv | FHD
+#EXTINF:-22 tvg-logo="https://acortar.link/dN2TWR" group-title="CINE Y SERIES", Frecuencia tv | FHD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-23 tvg-logo="https://static2.tgstat.ru/channels/_0/17/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis | HD
@@ -105,7 +105,7 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 #EXTINF:-35 tvg-logo="https://lc.cx/zhmhuL" group-title="MEXICO", MUNDO TV | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
-#EXTINF:-36 tvg-logo="https://lc.cx/rkqH-X" group-title="CINE Y SERIES", Rakuten ACCION | HD
+#EXTINF:-36 tvg-logo="https://blog.phonehouse.es/wp-content/uploads/2022/04/peliculas-de-accion-rakuten-tv-1621956288.png" group-title="CINE Y SERIES", Rakuten ACCION | HD
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
 
 #EXTINF:-37 tvg-logo="https://lc.cx/VRnIpE" group-title="INFANTIL", Planeta kids
@@ -168,10 +168,8 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-56 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="COSTA RICA", REPRETEL 11 | HD
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
-
-#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/640px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", ECUAVISA 3 costa HD
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
-
+#EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEU9qut1QCiW_5qv2AId0cS2b663rfT2Ue8LcxOUEUjRcorMM56Kb2NM_aQY0sBiceSgc&usqp=CAU" group-title="ECUADOR", ECUAVISA 3 costa HD
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
 #EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
 https://scl.edge.grupoz.cl/movie/live/chunklist_w248713290.m3u8
@@ -839,6 +837,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 #EXTINF:-1 group-title="CINE Y SERIES", SONY NOVELAS HD
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png"group-title="ECUADOR", TEVEODIGITAL
+https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg"group-title="COLOMBIA", SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/dantv.jpg" group-title="VENEZUELA", DAN TV
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
@@ -962,7 +966,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-300 tvg-logo="https://lc.cx/qQMuBT" group-title="COLOMBIA", CORDOVA TV
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 
-#EXTINF:-301 tvg-logo="https://lc.cx/zkFNZs" group-title="COLOMBIA", CARACOL
+#EXTINF:-301 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Caracol_Television_Lo_Mejor_Para_Ti.png" group-title="COLOMBIA", CARACOL
 http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzW0ze2U_FN_z2IcLH9setG_IEXUGFHowVEw&usqp=CAU"group-title="VARIOS" , ABC TV
@@ -1118,7 +1122,7 @@ http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="SERVIDOR 2", Canal E! 
 http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://lc.cx/zkFNZs" group-title="SERVIDOR 2", Caracol TV 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Caracol_Television_Lo_Mejor_Para_Ti.png" group-title="SERVIDOR 2", Caracol TV 
 http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="SERVIDOR 2", Telemundo 
@@ -4234,102 +4238,3 @@ https://novelisima-vod.akamaized.net/nov/delivery/610d736ecc08f72440be3124/maste
 
 #EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 6
 https://novelisima-vod.akamaized.net/nov/delivery/610d7381cc08f72440be3125/master.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
-https://cdn.adultiptv.net/pov.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.logotypes101.com/logos/902/628B6656F15FF18373495599DF11E7F3/Pornstar.png",PORNSTAR
-https://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/VkiN5Q",BLOWJOB
-https://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/_8ke6X",HUSTLER
-https://b-hls-10.doppiocdn.com/hls/76592543/76592543.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png",BRAZZERS TV
-https://livechannels.xyz:2053/iptv/brazzers/playlist.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png",Hustler-hd-tv
-https://livechannels.xyz:2053/iptv/hustlertv/playlist.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1200px-Dorcel_TV.svg.png",DORCEL-hd-tv
-https://livechannels.xyz:2053/iptv/dorcel/playlist.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://miamitvhd.com/images/jenny_for_you.png",MIAMI TV XX
-https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
-https://tv.teleclub.xyz/envivo/XXX/LIVECAMS/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Milf 
-https://tv.teleclub.xyz/envivo/XXX/MILF/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigDick 
-https://tv.teleclub.xyz/envivo/XXX/BIGDICK/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Fetish 
-https://tv.teleclub.xyz/envivo/XXX/FETISH/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigTits 
-https://tv.teleclub.xyz/envivo/XXX/BIGTITS/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Pornstar 
-https://tv.teleclub.xyz/envivo/XXX/PORNSTAR/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigAss 
-https://tv.teleclub.xyz/envivo/XXX/BIGASS/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Interracial 
-https://tv.teleclub.xyz/envivo/XXX/INTERRACIAL/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Latina 
-https://tv.teleclub.xyz/envivo/XXX/LATINA/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", POV 
-https://tv.teleclub.xyz/envivo/XXX/POV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blowjob 
-https://tv.teleclub.xyz/envivo/XXX/BLOWJOB/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Teen 
-https://tv.teleclub.xyz/envivo/XXX/TEEN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Hardcore 
-https://tv.teleclub.xyz/envivo/XXX/HARDCORE/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Cuckold 
-http://tv.teleclub.xyz/envivo/XXX/CUCKOLD/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Threesome 
-http://tv.teleclub.xyz/envivo/XXX/THREESOME/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Russian 
-https://tv.teleclub.xyz/envivo/XXX/RUSSIAN/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Lesbian 
-https://tv.teleclub.xyz/envivo/XXX/LESBIAN/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Rought 
-https://tv.teleclub.xyz/envivo/XXX/ROUGHT/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Gangbang 
-https://tv.teleclub.xyz/envivo/XXX/GANGBANG/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Anal
-https://tv.teleclub.xyz/envivo/XXX/ANAL/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Compilation 
-https://tv.teleclub.xyz/envivo/XXX/COMPILATION/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Brunette 
-https://tv.teleclub.xyz/envivo/XXX/BRUNETTE/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blonde 
-https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", PlayBoy HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VENUS HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
